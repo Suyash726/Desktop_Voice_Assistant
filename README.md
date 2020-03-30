@@ -1,2 +1,2 @@
 # Desktop_Voice_Assistant
-In this project I tried to create a Voice Activated Desktop Assistance named Amadeus which performs some basic tasks.Change name to main and it will start working!
+In this project I tried to create a Voice Activated Desktop Assistance named Amadeus which performs some basic tasks. Work in progress!
